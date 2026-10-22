@@ -1260,11 +1260,11 @@ Stars (README snapshot): 556
 
 Repository: https://github.com/yogsoth-ai/de-anthropocentric-research-engine
 
-900+ pure-markdown research skills: 4-layer hierarchy, 9 composable packages, 6 MCP integrations
+A research engine for agents: literature synthesis, gap validation, hypothesis formation and experiment design from a stated direction - plan approved before it runs, backtracks when evidence is thin, pure markdown
 
-900+ 纯 markdown 研究技能:4 层层级、9 个自由组合包、6 个 MCP 集成
+面向 agent 的研究引擎：给定方向后自行完成文献综合、空白验证、假设形成与实验设计；执行前先审批计划，证据不足时退回文献；纯 markdown
 
-Stars (README snapshot): 470
+Stars (README snapshot): 505
 
 
 ### Minara-AI/minara-skills
