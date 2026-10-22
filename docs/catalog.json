@@ -19,7 +19,7 @@
   "starCountNote": "Project star counts are README snapshots, not live counts. Verify installation and compatibility in the linked upstream repository.",
   "repositoryStars": 23,
   "firstStarGoal": 100,
-  "total": 148,
+  "total": 149,
   "groups": [
     {
       "id": "MKT",
@@ -935,9 +935,17 @@
           "stars": 4,
           "zhName": "lo2589/deepseek-harness-media",
           "zhDesc": "DSH 网页版输入框旁的一排按钮：不改 YAML 切换模型提供方（GLM、MiniMax、OpenAI、Claude、本地 Ollama），截图，上传图片/SVG/文本文件，把图片交给视觉模型读，另有会话媒体面板和历史搜索。安装：`dsh plugin --profile web add file:./dsh-provider-quick-config`。"
+        },
+        {
+          "name": "skyjjgw/dsh-version-guard",
+          "url": "https://github.com/skyjjgw/dsh-version-guard",
+          "desc": "Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.",
+          "stars": 1,
+          "zhName": "skyjjgw/dsh-version-guard",
+          "zhDesc": "记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。"
         }
       ],
-      "count": 56,
+      "count": 57,
       "prefix": "U7"
     },
     {

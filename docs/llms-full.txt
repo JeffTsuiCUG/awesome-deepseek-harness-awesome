@@ -1209,6 +1209,17 @@ DSH 网页版输入框旁的一排按钮：不改 YAML 切换模型提供方（G
 Stars (README snapshot): 4
 
 
+### skyjjgw/dsh-version-guard
+
+Repository: https://github.com/skyjjgw/dsh-version-guard
+
+Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.
+
+记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。
+
+Stars (README snapshot): 1
+
+
 ## Skills / Skills 与技能包
 
 
