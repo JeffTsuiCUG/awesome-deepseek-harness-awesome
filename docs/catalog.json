@@ -9,8 +9,8 @@
     "zh-CN"
   ],
   "sourceUpdated": {
-    "en": "2026-10-20",
-    "zh": "2026-10-20"
+    "en": "2026-10-22",
+    "zh": "2026-10-22"
   },
   "sources": {
     "en": "https://github.com/awesome-deepseekharness/awesome-deepseek-harness/blob/main/README.md",
@@ -19,7 +19,7 @@
   "starCountNote": "Project star counts are README snapshots, not live counts. Verify installation and compatibility in the linked upstream repository.",
   "repositoryStars": 23,
   "firstStarGoal": 100,
-  "total": 146,
+  "total": 147,
   "groups": [
     {
       "id": "MKT",
@@ -919,9 +919,17 @@
           "stars": 203,
           "zhName": "luobosibing2/dsh-jev-plugin",
           "zhDesc": "原生 DSH 插件：TypeSafe Jev 决策层负责技能/文件筛选、任务监督、工具输出过滤与审批辅助——12 项功能独立配置、默认全部关闭（经 DSH Web 插件管理器用 GitHub 地址安装）"
+        },
+        {
+          "name": "lo2589/deepseek-harness-media",
+          "url": "https://github.com/lo2589/deepseek-harness-media",
+          "desc": "Composer-bar buttons for DSH Web: switch model providers (GLM, MiniMax, OpenAI, Claude, local Ollama) without editing YAML, take screenshots, upload images/SVG/text files, send images to a vision model, plus a session media panel and history search. Install: `dsh plugin --profile web add file:./dsh-provider-quick-config`.",
+          "stars": 4,
+          "zhName": "lo2589/deepseek-harness-media",
+          "zhDesc": "DSH 网页版输入框旁的一排按钮：不改 YAML 切换模型提供方（GLM、MiniMax、OpenAI、Claude、本地 Ollama），截图，上传图片/SVG/文本文件，把图片交给视觉模型读，另有会话媒体面板和历史搜索。安装：`dsh plugin --profile web add file:./dsh-provider-quick-config`。"
         }
       ],
-      "count": 54,
+      "count": 55,
       "prefix": "U7"
     },
     {

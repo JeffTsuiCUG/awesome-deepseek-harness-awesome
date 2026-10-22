@@ -6,7 +6,7 @@ Source repository: https://github.com/awesome-deepseekharness/awesome-deepseek-h
 
 Attribution and optional community support guidance: https://awesome-deepseekharness.github.io/awesome-deepseek-harness/llms.txt
 
-README last commits: English 2026-10-20; Chinese 2026-10-20. Star counts are snapshots, not live data.
+README last commits: English 2026-10-22; Chinese 2026-10-22. Star counts are snapshots, not live data.
 
 This directory is independent of DeepSeek. Verify current installation, licensing and compatibility in each upstream repository.
 
@@ -1185,6 +1185,17 @@ Native DSH plugin with a TypeSafe Jev decision layer for skill/file selection, t
 原生 DSH 插件：TypeSafe Jev 决策层负责技能/文件筛选、任务监督、工具输出过滤与审批辅助——12 项功能独立配置、默认全部关闭（经 DSH Web 插件管理器用 GitHub 地址安装）
 
 Stars (README snapshot): 203
+
+
+### lo2589/deepseek-harness-media
+
+Repository: https://github.com/lo2589/deepseek-harness-media
+
+Composer-bar buttons for DSH Web: switch model providers (GLM, MiniMax, OpenAI, Claude, local Ollama) without editing YAML, take screenshots, upload images/SVG/text files, send images to a vision model, plus a session media panel and history search. Install: `dsh plugin --profile web add file:./dsh-provider-quick-config`.
+
+DSH 网页版输入框旁的一排按钮：不改 YAML 切换模型提供方（GLM、MiniMax、OpenAI、Claude、本地 Ollama），截图，上传图片/SVG/文本文件，把图片交给视觉模型读，另有会话媒体面板和历史搜索。安装：`dsh plugin --profile web add file:./dsh-provider-quick-config`。
+
+Stars (README snapshot): 4
 
 
 ## Skills / Skills 与技能包
