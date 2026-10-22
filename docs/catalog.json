@@ -19,7 +19,7 @@
   "starCountNote": "Project star counts are README snapshots, not live counts. Verify installation and compatibility in the linked upstream repository.",
   "repositoryStars": 23,
   "firstStarGoal": 100,
-  "total": 147,
+  "total": 148,
   "groups": [
     {
       "id": "MKT",
@@ -921,6 +921,14 @@
           "zhDesc": "原生 DSH 插件：TypeSafe Jev 决策层负责技能/文件筛选、任务监督、工具输出过滤与审批辅助——12 项功能独立配置、默认全部关闭（经 DSH Web 插件管理器用 GitHub 地址安装）"
         },
         {
+          "name": "klarkxy/dsh-plugins#dsh-dev-index",
+          "url": "https://github.com/klarkxy/dsh-plugins/tree/main/plugins/dsh-dev-index",
+          "desc": "Read official DSH docs in the Plugins page; Creator mode searches docs and checks plugin npm metadata. Install: `dsh plugin --profile web add @klarkxy/dsh-dev-index`.",
+          "stars": 7,
+          "zhName": "klarkxy/dsh-plugins#dsh-dev-index",
+          "zhDesc": "在 DSH 插件页阅读官方文档；创造模式检索文档、查询插件 npm 元数据。安装：`dsh plugin --profile web add @klarkxy/dsh-dev-index`。"
+        },
+        {
           "name": "lo2589/deepseek-harness-media",
           "url": "https://github.com/lo2589/deepseek-harness-media",
           "desc": "Composer-bar buttons for DSH Web: switch model providers (GLM, MiniMax, OpenAI, Claude, local Ollama) without editing YAML, take screenshots, upload images/SVG/text files, send images to a vision model, plus a session media panel and history search. Install: `dsh plugin --profile web add file:./dsh-provider-quick-config`.",
@@ -929,7 +937,7 @@
           "zhDesc": "DSH 网页版输入框旁的一排按钮：不改 YAML 切换模型提供方（GLM、MiniMax、OpenAI、Claude、本地 Ollama），截图，上传图片/SVG/文本文件，把图片交给视觉模型读，另有会话媒体面板和历史搜索。安装：`dsh plugin --profile web add file:./dsh-provider-quick-config`。"
         }
       ],
-      "count": 55,
+      "count": 56,
       "prefix": "U7"
     },
     {

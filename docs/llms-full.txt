@@ -1187,6 +1187,17 @@ Native DSH plugin with a TypeSafe Jev decision layer for skill/file selection, t
 Stars (README snapshot): 203
 
 
+### klarkxy/dsh-plugins#dsh-dev-index
+
+Repository: https://github.com/klarkxy/dsh-plugins/tree/main/plugins/dsh-dev-index
+
+Read official DSH docs in the Plugins page; Creator mode searches docs and checks plugin npm metadata. Install: `dsh plugin --profile web add @klarkxy/dsh-dev-index`.
+
+在 DSH 插件页阅读官方文档；创造模式检索文档、查询插件 npm 元数据。安装：`dsh plugin --profile web add @klarkxy/dsh-dev-index`。
+
+Stars (README snapshot): 7
+
+
 ### lo2589/deepseek-harness-media
 
 Repository: https://github.com/lo2589/deepseek-harness-media
